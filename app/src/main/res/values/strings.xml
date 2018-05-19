@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">GurpreetSethi_COMP304_Lab5</string>
+    <string-array name="cuisine">
+        <item>Italian</item>
+        <item>Chinese</item>
+        <item>Indian</item>
+    </string-array>
+    <string-array name="Chinese">
+        <item>Hakka Legend</item>
+        <item>Federick</item>
+        <item>China Town</item>
+    </string-array>
+    <string-array name="Italian">
+        <item>Burger King</item>
+        <item>Kwality Foods</item>
+        <item>Tim Hortons</item>
+    </string-array>
+    <string-array name="Indian">
+        <item>Tasty Foods</item>
+        <item>Moti Mahal</item>
+    </string-array>
+    <string-array name="ChineseRest">
+        <item>Unit 2, 789 Warden Ave, Scarborough, ON M1L 4C2</item>
+        <item>338 Spadina Ave, Toronto, ON M5T 2G2</item>
+        <item>1920 Ellesmere Rd, Scarborough, ON M1H 2V6</item>
+
+    </string-array>
+
+    <string-array name="ItalianRest">
+        <item>100 Eglinton Square, Scarborough, ON M1L 2K1</item>
+        <item>30 Dean Park Rd, Scarborough, ON M1B 5S6</item>
+        <item> 2200 Eglinton Ave E, Scarborough, ON M1L 2N3</item>
+    </string-array>
+
+    <string-array name="IndianRest">
+        <item>2372 Eglinton Ave E, Scarborough, ON M1K 2P3</item>
+        <item>1422 Gerrard St E, Toronto, ON M4L 1Z6</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_my_maps">Map</string>
+
+
+</resources>
